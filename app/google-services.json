@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "373052212159",
+    "project_id": "treesmarketplace-c1148",
+    "storage_bucket": "treesmarketplace-c1148.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:373052212159:android:852a4b6b4ecb97d7a0570a",
+        "android_client_info": {
+          "package_name": "com.code.treeMarketplaceApp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCcxkfBuEN3JxTEMUWcP5-t3ZhsqtyHBrI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
